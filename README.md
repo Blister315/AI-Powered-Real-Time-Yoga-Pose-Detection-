@@ -52,8 +52,8 @@ Python	Data preprocessing and model training
 React.js	Front-end user interface
 Scikit-Learn	Data splitting and utilities
 
-**Setup Instructions
-**1️⃣ Install Python Dependencies
+**Setup Instructions**
+1️⃣ Install Python Dependencies
 pip install -r requirements.txt
 
 2️⃣ Run Preprocessing
